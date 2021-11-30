@@ -1,0 +1,8 @@
+[
+
+    {"desc":"Table","price":"200","imgPath":"/imgs/Table.jpg", "qty":10},
+
+    {"desc":"Chair","price":"200","imgPath":"/imgs/Chair.jpg", "qty" : 5},
+
+    {"desc":"Sofa","price":"200","imgPath":"/imgs/Price.jpg", "qty" : 100}
+]
